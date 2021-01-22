@@ -1,0 +1,61 @@
+{
+    "users" : [
+        {
+            "id" : "1",
+            "firstName":"Ilham",
+            "lastName" :"Atsaris",
+            "email" : "ilhamAtsaris@gmail.com",
+            "age" : 24,
+            "companyId":"1"
+        },
+        {
+            "id" : "2",
+            "firstName":"Laoude",
+            "lastName" :"Muhammad",
+            "email" : "laoudemuhammad@gmail.com",
+            "age" : 23,
+            "companyId":"2"
+        },
+        {
+            "id" : "3",
+            "firstName":"Willy",
+            "lastName" :"Yoga",
+            "email" : "willyyoga@gmail.com",
+            "age" : 25,
+            "companyId":"3"
+        },
+        {
+            "id" : "4",
+            "firstName":"Agung",
+            "lastName" :"Sedayu",
+            "email" : "agungsedayu@gmail.com",
+            "age" : 24,
+            "companyId":"2"
+        },
+        {
+            "id" : "5",
+            "firstName": "Salsa",
+            "lastName" : "Aulia",
+            "email": "salsa@gmail.com",
+            "age": "18",
+            "companyId" :"1"
+        }
+    ],
+    "companies" : [
+        {
+            "id": "1",
+            "name" : "Gojek",
+            "description": " Founded on the principle of solving everyday challenges with technology, the Gojek app has evolved from offering just ride-hailing to a suite of more than 20 services today. As we continue to grow as a leading tech company serving everyday solutions for millions of users across Southeast Asia, our passion for problem-solving grows"
+        },
+        {
+            "id" : "2",
+            "name" : "Tokopedia",
+            "description" : "Indonesia is the largest archipelago in the world: 17K islands made it difficult to develop an even infrastructure. Merchants move to big cities for better market, while consumers have limited access to goods. This led to unnecessary urbanization-goods are clustered in bigger cities"
+        },
+        {
+            "id" :"3",
+            "name" :"Traveloka",
+            "description" : "Traveloka is a leading Southeast Asia online travel company that provides a wide range of travel needs in one platform, enabling customers to create moments together with their loved ones. Traveloka offers flights, hotels, trains, flight + hotel packages, attractions & activities, connectivity products*, airport transports, buses*, and car rental"
+        }
+    ]
+}
